@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "loginCtrl.js",
+  "sourceRoot": "",
+  "sources": [
+    "loginCtrl.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA;EAAA,OAAO,CAAC,MAAR,CAAe,QAAf,CACA,CAAC,UADD,CACY,WADZ,EACwB,CAAC,QAAD,EAAU,SAAC,MAAD,GAAA,CAAV,CADxB;AAAA"
+}

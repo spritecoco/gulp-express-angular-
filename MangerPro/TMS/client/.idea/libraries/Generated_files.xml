@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/login/loginCtrl.js" />
+        <item url="file://$PROJECT_DIR$/src/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/index.js" />
+        <item url="file://$PROJECT_DIR$/src/app/login/loginCtrl.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/demo/demo1.js" />
+      <root url="file://$PROJECT_DIR$/src/demo/demo1.js" />
+      <root url="file://$PROJECT_DIR$/dist/demo/demo1.js" />
+      <root url="file://$PROJECT_DIR$/dist/demo/demo1.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/login/loginCtrl.js" />
+      <root url="file://$PROJECT_DIR$/src/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/index.js" />
+      <root url="file://$PROJECT_DIR$/src/app/login/loginCtrl.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>

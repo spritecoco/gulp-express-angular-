@@ -1,0 +1,22 @@
+{
+  "name": "tms_server",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "debug": "^2.6.8",
+    "express": "^4.15.4",
+    "morgan": "^1.8.2"
+  },
+  "author": "Sprite",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-develop-server": "^0.5.2",
+    "gulp-notify": "^3.0.0",
+    "run-sequence": "^2.1.0"
+  }
+}

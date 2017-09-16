@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/gulpfile.js" />
+        <item url="file://$PROJECT_DIR$/src/routes/api.js" />
+        <item url="file://$PROJECT_DIR$/src/config/config.js" />
+        <item url="file://$PROJECT_DIR$/src/libs/app.js" />
+        <item url="file://$PROJECT_DIR$/src/index.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/app1.js" />
+      <root url="file://$PROJECT_DIR$/src/app1.js" />
+      <root url="file://$PROJECT_DIR$/resrc/app.js" />
+      <root url="file://$PROJECT_DIR$/resrc/routes/api.js" />
+      <root url="file://$PROJECT_DIR$/resrc/bin/index.js" />
+      <root url="file://$PROJECT_DIR$/resrc/app.js" />
+      <root url="file://$PROJECT_DIR$/resrc/routes/api.js" />
+      <root url="file://$PROJECT_DIR$/resrc/bin/index.js" />
+      <root url="file://$PROJECT_DIR$/src/routes1/api.js" />
+      <root url="file://$PROJECT_DIR$/src/index1.js" />
+      <root url="file://$PROJECT_DIR$/src/config/confjg.js" />
+      <root url="file://$PROJECT_DIR$/src/libs1/app.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile1.js" />
+      <root url="file://$PROJECT_DIR$/src/routes1/api.js" />
+      <root url="file://$PROJECT_DIR$/src/index1.js" />
+      <root url="file://$PROJECT_DIR$/src/config/confjg.js" />
+      <root url="file://$PROJECT_DIR$/src/libs1/app.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile1.js" />
+      <root url="file://$PROJECT_DIR$/gulpfile.js" />
+      <root url="file://$PROJECT_DIR$/src/routes/api.js" />
+      <root url="file://$PROJECT_DIR$/src/config/config.js" />
+      <root url="file://$PROJECT_DIR$/src/libs/app.js" />
+      <root url="file://$PROJECT_DIR$/src/index.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
